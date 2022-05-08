@@ -191,3 +191,14 @@ section {
    text-transform: uppercase;
    color: #fff;
 }
+
+/* about */
+
+.info-box {
+    align-items: center;
+    display: flex;
+}
+
+.info-box img {
+    width: 90px;
+}
